@@ -1,0 +1,5 @@
+***** Skopirovane slova zo suboru: db_slov.txt *****
+ekonomicky
+samostatne
+xerografia
+***** Celkovy pocet skopirovanych slov je: 3 o velkosti: 10 *****
